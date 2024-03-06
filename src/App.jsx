@@ -1,5 +1,5 @@
 function App() {
-  return <div>Career Service</div>;
+  return <div></div>;
 }
 
 export default App;

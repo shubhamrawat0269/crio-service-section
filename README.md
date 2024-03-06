@@ -1,8 +1,11 @@
-# React + Vite
+# Career Service Section of CRIO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Career Service Section includes :
+Note: --> Login Logout functionality using Auth0() in Reactjs.
+1. CRIO Referals Section --> Search bar, tab --> referal, opt in, interviews, offers, rejects, archive.
+2. CRIO Assisted Apply --> tab --> Recommended, Archive, Applied
+3. Need to build a reusable card.
+4. Card swap functionality when applied for it.
+5. Time functionality --> when time got passed , automatically card goes into the zone of Archive.
+6. Toggle Theme Functionality
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
